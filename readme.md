@@ -1,5 +1,5 @@
 
-# T-rex Entertainment Website
+# Topyield General Hardware Merchandise on React
 ## Install
 
 1) Run in your terminal:
@@ -120,58 +120,3 @@ Source: https://laravel-news.com/laravel-5-4-key-too-long-error
 ## Change log
 
 Please save any major updates here [CHANGELOG](readme.md)
-
-
-###### Oct 1, 2018
-* Complete front end stuff.
-    - fonts***
-    - images
-    - fix navbar
-    - fix margins and paddings in about
-    - fix spacings for coming soon
-    - fix colors - some colors are still in laravel
-
-* news to user relationship on progress
-* home, about and history CMS under dev, finish frontend firsttt!!
-* downgraded package for bluehost
-* upgraded various packages
-* artist under maintenance, user authentication required to see
-* category select list output
-
-
-###### September 23, 2018
-* Added related media to films and artists.
-* Fixed background sizing for stretched images.
-* Errors Encountered:
-    - image overlay upload for artists not working. (Not stored to database)
-
-###### September 20, 2018
-* Fixed Films index and individual page to reflect model changes.
-* Errors Encountered:
-    - image upload for artists not working
-    - article short content input field missing
-
-###### Sun Jun 18 20:11:06 CST 2018
-* coverted to 5.5
-    - migrated backend
-    - migrated migrations
-* packages reinstalled
-
-###### Thu Jun 14 19:15:21 CST 2018
-* added backpack packages
-    - Backpack Base and CRUD
-    - Settings
-    - PageManager
-    - PermissionManager
-    - MenuCRUD
-    - NewsCRUD
-
-###### Thu Jun 14 17:37:47 CST 2018
-* added test branch
-    - mainly for the purpose of testing composer packages
-
-###### Thu Jun 14 01:29:42 CST 2018
-* added dev branch
-
-
-
